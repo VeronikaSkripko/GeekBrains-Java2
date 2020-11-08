@@ -15,7 +15,7 @@ public class Main {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static int checkArr(String[][] arr)throws MyArraySizeException, MyArrayDataException{
 		int x;
 		int sum = 0;
